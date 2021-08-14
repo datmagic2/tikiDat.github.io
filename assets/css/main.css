@@ -1,0 +1,26 @@
+.header{
+    height: 130px;
+    background-color:#1a94ff ;
+}
+.footer{
+    height: 130px;
+    background-color:#ff1acd ;
+}
+.header_image img{
+    width: 70px;
+    height: 70px;
+}
+.header_main{
+
+    display: block;
+}
+.header_main-imgLogo{
+    margin-top: 23px;
+    height: 40px;
+    width: 60px;
+}
+.header_main-imgTitle{
+    height: 12px;
+    width: 83px;
+    margin-top: 20px;
+}
